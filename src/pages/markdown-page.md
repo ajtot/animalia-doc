@@ -1,5 +1,5 @@
 ---
-title: Markdown page example
+title: Animalia DS
 ---
 
 # Markdown page example
